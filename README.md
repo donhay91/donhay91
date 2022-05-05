@@ -1,6 +1,6 @@
 # Hi there, I'm Donovan! 👋
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=donhay91&show_icons=true&theme=tokyonight" />
+<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=donhay91&show_icons=true&theme=tokyonight" />
 
 <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donhay91&layout=compact&theme=tokyonight" /> 
 
