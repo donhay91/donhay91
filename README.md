@@ -14,8 +14,8 @@ I build responsive, production-ready web apps for real clients — from cosmetic
 
 | Project | Stack | Live |
 |---|---|---|
-| [Ericsonlab SA](https://github.com/donhay91) | Next.js · Shopify API | [View →](#) |
-| [CluedUp](https://github.com/donhay91) | Next.js · Typeform | [View →](#) |
+| [Ericsonlab SA](https://github.com/donhay91) | Next.js · Shopify API | [ericsonlab.co.za](https://www.ericsonlab.co.za) |
+| [CluedUp](https://github.com/donhay91) | Next.js · Typeform | [clued-up.co.za](https://clued-up.co.za) |
 | [Personal Portfolio](https://donovanhay.co.za) | Next.js | [donovanhay.co.za](https://donovanhay.co.za) |
 
 ## 📖 Learning
